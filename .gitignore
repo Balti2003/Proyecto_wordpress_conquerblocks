@@ -1,0 +1,30 @@
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# WordPress core
+/wp-admin/
+/wp-includes/
+
+# Subidas y medios
+wp-content/uploads/
+
+# Configuración local
+wp-config.php
+wp-config-local.php
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Plugins no personalizados (subidos desde WP admin)
+wp-content/plugins/*
+
+# Excepto los plugins personalizados
+!wp-content/plugins/mi-plugin-personalizado/
+
+# Temas no personalizados
+wp-content/themes/*
+
+# Excepto el tema que estés desarrollando
+!wp-content/themes/mi-tema/
