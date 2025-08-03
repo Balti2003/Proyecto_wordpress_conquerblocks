@@ -40,7 +40,7 @@ Este proyecto fue creado como práctica personal para aprender a trabajar con Wo
 2. **Importar la base de datos**
 
    - Abrí `http://localhost/phpmyadmin` o `http://localhost/adminer`.
-   - Creá una nueva base de datos (por ejemplo: `conquerblocks`).
+   - Creá una nueva base de datos (por ejemplo: `conquerblocksdb`).
    - Importá el archivo SQL ubicado en `database/backup.sql`.
 
 3. **Configurar **``
@@ -48,7 +48,7 @@ Este proyecto fue creado como práctica personal para aprender a trabajar con Wo
    - Editá el archivo `wp-config.php` en la raíz del proyecto.
    - Cambiá el nombre de la base de datos y las credenciales si es necesario:
      ```php
-     define( 'DB_NAME', 'conquerblocks' );
+     define( 'DB_NAME', 'conquerblocksdb' );
      define( 'DB_USER', 'root' );
      define( 'DB_PASSWORD', '' );
      define( 'DB_HOST', 'localhost' );
@@ -78,4 +78,15 @@ Este proyecto fue creado como práctica personal para aprender a trabajar con Wo
 ![Página de inicio](images/home5.png)
 ![Página de inicio](images/home6.png)
 
+### Master Ejemplo
+![Master fullstack](images/master_especifico_ejemplo.png)
 
+### Blogs
+![Pagina de blogs](images/blogs.png)
+![Pagina de blog especifico](images/blog_especifico.png)
+
+### Sobre Nosotros
+![Pagina de nosotros](images/sobre_nosotros.png)
+
+### Contacto
+![Pagina de contacto](images/contacto.png)
