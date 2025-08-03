@@ -80,6 +80,9 @@ Este proyecto fue creado como práctica personal para aprender a trabajar con Wo
 
 ### Master Ejemplo
 ![Master fullstack](images/master_especifico_ejemplo.png)
+![Master fullstack](images/master_especifico_ejemplo2.png)
+![Master fullstack](images/master_especifico_ejemplo3.png)
+![Master fullstack](images/master_especifico_ejemplo4.png)
 
 ### Blogs
 ![Pagina de blogs](images/blogs.png)
